@@ -1,0 +1,7 @@
+#
+# Dependencies for mysql-fabric.
+#
+--allow-external mysql-connector-python
+mysql-connector-python
+docker-py
+python-novaclient

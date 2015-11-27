@@ -1,0 +1,6 @@
+#
+# Dependencies for mysql-fabric.
+#
+nose
+tox
+six
